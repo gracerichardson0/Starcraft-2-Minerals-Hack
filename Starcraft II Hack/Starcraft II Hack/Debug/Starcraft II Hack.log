@@ -1,0 +1,4 @@
+﻿  SC2HACK.cpp
+c:\users\nick\desktop\projects\c++\starcraft 2 cheat engine hack\sc2hack.cpp(14): warning C4101: 'hProcess': unreferenced local variable
+c:\users\nick\desktop\projects\c++\starcraft 2 cheat engine hack\sc2hack.cpp(20): warning C4101: 'minerals': unreferenced local variable
+  Starcraft II Hack.vcxproj -> C:\Users\Nick\Desktop\Projects\c++\Starcraft 2 Cheat Engine Hack\Starcraft II Hack\Debug\Starcraft II Hack.exe
